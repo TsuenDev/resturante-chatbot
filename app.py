@@ -123,9 +123,6 @@ for i, (question, answers, top_intent, confidence_score, entities) in enumerate(
         st.write(f"  **Confianza de respuesta:** {answer.confidence * 100:.2f}%")  # Para mostrar la confianza de la respuesta
         # st.write(f"  **Fuente:** {answer.source}")  # Para mostrar la fuente de la respuesta
     
-    st.write(f"**Intención:** {top_intent}")
-    st.write(f"**Confianza en la intención:** {confidence_score * 100:.2f}%")
-    
     # Concatenar toda la información en una sola línea
     response_summary = (
         f"**Intención:** {top_intent} | "
