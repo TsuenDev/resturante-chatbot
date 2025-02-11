@@ -8,13 +8,13 @@ Esto se logra mediante el uso de la API de Language Understanding (LUIS) de Azur
 
 Capturas del entrenamiento del Azure Language Service:
 
-![Azure_image](img/img01.png)
-![Azure_image](img/img02.png)
-![Azure_image](img/img03.png)
-![Azure_image](img/img04.png)
-![Azure_image](img/img05.png)
-![Azure_image](img/img06.png)
-![Azure_image](img/img07.png)
-![Azure_image](img/img08.png)
-![Azure_image](img/img09.png)
-![Azure_image](img/img10.png)
+![Azure_image](img01.png)
+![Azure_image](img02.png)
+![Azure_image](img03.png)
+![Azure_image](img04.png)
+![Azure_image](img05.png)
+![Azure_image](img06.png)
+![Azure_image](img07.png)
+![Azure_image](img08.png)
+![Azure_image](img09.png)
+![Azure_image](img10.png)
