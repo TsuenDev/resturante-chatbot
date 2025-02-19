@@ -6,6 +6,8 @@ Su función principal es responder preguntas relacionadas con el menú, horarios
 
 Esto se logra mediante el uso de la API de Language Understanding (LUIS) de Azure, que permite interpretar el lenguaje natural y ofrecer respuestas precisas y contextuales.
 
+Puedes probarlo en el siguiente enlace: [Enlace al chatbot](https://resturante-chatbot-intents.streamlit.app)
+
 Capturas del entrenamiento del Azure Language Service:
 
 ![Azure_image](img01.png)
